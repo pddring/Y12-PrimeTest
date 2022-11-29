@@ -12,3 +12,8 @@ You should see something like this;
 1) Run the program multiple times, recording the time it takes to find all the prime numbers from 0 to 10,000,000 when you vary the number of threads
 2) Plot the time taken against the number of threads to see the optimimum number of threads for best performance
 3) Compare the optimimum number of threads with the specifications (e.g. number of cores/threads) on your computer
+
+## Extension:
+- Can you optimise the code to make it run any more quickly?
+- Do the threads always execute in order?
+- How is does the optimimum number of threads to run your program change if you run another demanding program in the background?
